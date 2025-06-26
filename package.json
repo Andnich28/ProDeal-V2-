@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^7.6.2",
+    "react-scripts": "^5.0.1"
+  }
+}
